@@ -28,12 +28,12 @@ conda install tabulate=0.8.7  (tabulate 0.8.7)
 conda install networkx=2.5  (networkx 2.5)
 conda install scipy=1.5.0  (scipy 1.5.0)
 conda install seaborn=0.11.0  (seaborn 0.11.0)
-pip install cairosvg=2.4.2 (cairosvg 2.4.2)
-pip install tqdm=4.50.0  (tqdm 4.50.0)
+pip install cairosvg==2.4.2 (cairosvg 2.4.2)
+pip install tqdm==4.50.0  (tqdm 4.50.0)
 ```
 To clone code from this project, say
 ```
-git clone https://github.com/calvin-zcx/moflow.git moflow
+git clone https://github.com/nanami233333/moflow.git moflow
 ```
 ## 1. Data Preprocessing
 To generate molecular graphs from SMILES strings
