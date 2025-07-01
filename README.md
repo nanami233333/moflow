@@ -22,7 +22,7 @@ https://arxiv.org/abs/2006.10137
 conda create --name moo python=3.8.5 pandas=1.1.2 matplotlib=3.3.2    (conda 4.6.7, python 3.8.5, pandas 1.1.2, matplotlib  3.3.2)
 conda activate moo
 conda install pytorch=1.6.0 torchvision=0.7.0 cudatoolkit=10.2 -c pytorch (pytorch 1.6.0, torchvision 0.7.0)
-conda install rdkit=2020.03.6  (rdkit 2020.03.6)
+conda install -c conda-forge rdkit=2020.03.6  (rdkit 2020.03.6)
 conda install orderedset=2.0.3  (orderset 2.0.3)
 conda install tabulate=0.8.7  (tabulate 0.8.7)
 conda install networkx=2.5  (networkx 2.5)
