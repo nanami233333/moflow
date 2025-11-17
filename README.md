@@ -28,6 +28,8 @@ conda install tabulate=0.8.7  (tabulate 0.8.7)
 conda install networkx=2.5  (networkx 2.5)
 conda install scipy=1.5.0  (scipy 1.5.0)
 conda install seaborn=0.11.0  (seaborn 0.11.0)
+整合
+conda install orderedset=2.0.3 tabulate=0.8.7 networkx=2.5 scipy=1.5.0 seaborn=0.11.0 
 pip install cairosvg==2.4.2 (cairosvg 2.4.2)
 pip install tqdm==4.50.0  (tqdm 4.50.0)
 ```
